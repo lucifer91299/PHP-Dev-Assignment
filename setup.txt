@@ -1,0 +1,6 @@
+run index.php file
+
+before that create a database then import table file .sql file in DB 
+after that check 
+	connection like host,username,password,database_name 
+
